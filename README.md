@@ -1,4 +1,4 @@
-📄 PdfFolio Studio
+📄 Pdf-Folio-Studiohtml
 
 A modern, browser-based PDF toolkit built with HTML5, CSS, and JavaScript.
 
